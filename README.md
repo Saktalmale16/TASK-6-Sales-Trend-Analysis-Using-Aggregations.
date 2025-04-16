@@ -45,3 +45,7 @@ FROM orders
 WHERE order_date BETWEEN '2023-01-01' AND '2023-12-31'
 GROUP BY EXTRACT(YEAR FROM order_date), EXTRACT(MONTH FROM order_date)
 ORDER BY order_year, order_month;
+
+---
+
+[![image.alt](https://github.com/Saktalmale16/Task-3---Task-3-SQL-for-Data-Analysis/blob/main/1sql.PNG)
