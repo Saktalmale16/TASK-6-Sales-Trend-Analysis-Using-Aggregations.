@@ -31,6 +31,8 @@ This query helps identify monthly trends in sales and order volume, which can be
 - Planning inventory
 - Marketing strategies based on high/low sales periods
 
+**Output Of The SQL Query**
+
 ![image alt](https://github.com/Saktalmale16/TASK-6-Sales-Trend-Analysis-Using-Aggregations./blob/main/sql%20query%20image.PNG)
 ---
 
