@@ -48,4 +48,4 @@ ORDER BY order_year, order_month;
 
 ---
 
-[![image.alt](https://github.com/Saktalmale16/TASK-6-Sales-Trend-Analysis-Using-Aggregations./blob/main/sql%20query%20image.PNG)
+[image.alt](https://github.com/Saktalmale16/TASK-6-Sales-Trend-Analysis-Using-Aggregations./blob/main/sql%20query%20image.PNG)
